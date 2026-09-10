@@ -21,6 +21,9 @@ Su finalidad es exclusivamente experimental y formativa.
 El icono de ficha para Google Play está disponible en
 [`docs/play-store-icon.png`](docs/play-store-icon.png) y tiene 512 × 512 píxeles.
 
+El gráfico destacado de Google Play está disponible en
+[`docs/feature-graphic.png`](docs/feature-graphic.png) y tiene 1024 × 500 píxeles.
+
 ## Datos y privacidad
 
 La aplicación no utiliza servidores propios, cuentas de usuario, publicidad ni
