@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Política de privacidad - PruebaMEB</title>
+  <style>
+    :root { color-scheme: light; --ink: #1d2733; --muted: #5c6875; --accent: #176b87; --paper: #f4f7f8; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--paper); color: var(--ink); font: 16px/1.65 system-ui, -apple-system, sans-serif; }
+    main { max-width: 820px; margin: 0 auto; padding: 28px 20px 56px; }
+    article { background: #fff; border: 1px solid #d9e1e5; border-radius: 14px; padding: 30px clamp(22px, 5vw, 54px); box-shadow: 0 8px 28px #17304212; }
+    h1 { margin: 0 0 8px; font-size: clamp(1.8rem, 5vw, 2.6rem); line-height: 1.15; }
+    h2 { margin: 2rem 0 .5rem; color: var(--accent); font-size: 1.25rem; }
+    p, ul { margin: .7rem 0; }
+    .meta { color: var(--muted); margin-top: 0; }
+    a { color: var(--accent); }
+    footer { color: var(--muted); font-size: .9rem; margin-top: 18px; text-align: center; }
+  </style>
+</head>
+<body>
+  <main>
+    <article>
+      <h1>Política de privacidad</h1>
+      <p class="meta">Proyecto: PruebaMEB · Última actualización: 10 de septiembre de 2026</p>
+
+      <p>Esta política explica cómo PruebaMEB trata la información durante su uso. PruebaMEB es un proyecto educativo y experimental para estudiar Android Auto y la API Android for Cars App Library. No es una aplicación oficial de Volkswagen, Google ni Android Auto.</p>
+
+      <h2>Responsable y contacto</h2>
+      <p>El responsable del proyecto es Óscar I. Ginés R. Para consultas sobre privacidad puedes escribir a <a href="mailto:oscargines@gmail.com">oscargines@gmail.com</a>.</p>
+
+      <h2>Datos que puede tratar la aplicación</h2>
+      <ul>
+        <li>Modelo y fabricante del vehículo.</li>
+        <li>Porcentaje de batería y autonomía restante.</li>
+        <li>Velocidad y odómetro, cuando el vehículo y Android Auto los proporcionan.</li>
+        <li>Tipo de conector y estado del puerto de carga.</li>
+        <li>Estados técnicos devueltos por la API del vehículo, incluidos campos no disponibles.</li>
+        <li>Ubicación, únicamente cuando Android Auto o la plataforma la requieran para proporcionar una capacidad autorizada.</li>
+      </ul>
+
+      <h2>Finalidad</h2>
+      <p>Los datos se utilizan exclusivamente para mostrar información de estudio en la pantalla de Android Auto y, si la sesión está activa, generar un registro CSV local para análisis técnico.</p>
+
+      <h2>Permisos</h2>
+      <p>La aplicación declara permisos de ubicación y permisos de acceso a información del vehículo. Android Auto controla la concesión de estos permisos y el usuario puede rechazarlos. Si se rechazan, algunos datos no estarán disponibles.</p>
+
+      <h2>Almacenamiento y transferencias</h2>
+      <p>El registro se guarda en el almacenamiento privado de la aplicación, en un archivo local llamado <code>meb_probe_log.csv</code>. PruebaMEB no tiene servidores propios, no incorpora publicidad, no usa analítica, no crea cuentas y no vende ni comparte los datos con fines comerciales.</p>
+      <p>Para mostrar la interfaz, la aplicación se comunica con Android Auto y con los servicios del vehículo que forman parte de la plataforma. Esos servicios pueden aplicar sus propias políticas de privacidad.</p>
+
+      <h2>Conservación y eliminación</h2>
+      <p>Los datos permanecen en el teléfono mientras exista el archivo local o la aplicación instalada. El usuario puede eliminarlos borrando el archivo desde la aplicación o desinstalando PruebaMEB.</p>
+
+      <h2>Seguridad</h2>
+      <p>El archivo se guarda en el almacenamiento privado de la aplicación y no se publica automáticamente. Ningún sistema puede garantizar una seguridad absoluta, por lo que el usuario debe proteger el teléfono y las herramientas de depuración.</p>
+
+      <h2>Derechos y consultas</h2>
+      <p>Para solicitar información sobre el tratamiento de datos o plantear una consulta, escribe a <a href="mailto:oscargines@gmail.com">oscargines@gmail.com</a>. El correo de contacto podrá cambiar en futuras versiones de esta política.</p>
+
+      <h2>Cambios</h2>
+      <p>Esta política puede actualizarse cuando cambie el proyecto o su tratamiento de datos. La fecha de actualización aparecerá al principio de esta página.</p>
+    </article>
+    <footer>PruebaMEB · Proyecto educativo · Volkswagen ID.4</footer>
+  </main>
+</body>
+</html>

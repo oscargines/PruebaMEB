@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MEB Probe</string>
+    <string name="main_hint">MEB Probe\n\n1. Conecta este móvil al Volkswagen ID.4 con Android Auto\n   (cable USB o inalámbrico).\n\n2. La app aparecerá en la pantalla del coche y registrará\n   los datos del vehículo (SoC, autonomía, velocidad,\n   odómetro, estado EV, conector).\n\n3. El log CSV queda en la app. Puedes extraerlo con:\n   adb exec-out run-as com.oscargines.pruebameb cat files/meb_probe_log.csv\n</string>
+</resources>
