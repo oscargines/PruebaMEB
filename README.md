@@ -29,7 +29,7 @@ porque Android Auto y la API de Android for Cars pueden requerirlos para
 proporcionar la información disponible del coche. La aplicación no envía esos
 datos a un servidor propio.
 
-Consulta la [política de privacidad](docs/privacy-policy.html).
+Consulta la [política de privacidad](https://oscargines.github.io/PruebaMEB/privacy-policy.html).
 
 ## Requisitos
 
