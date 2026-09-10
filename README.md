@@ -18,6 +18,9 @@ Su finalidad es exclusivamente experimental y formativa.
 - Pruebas mediante Desktop Head Unit o un vehículo real compatible.
 - Compatibilidad probada únicamente con Volkswagen ID.4.
 
+El icono de ficha para Google Play está disponible en
+[`docs/play-store-icon.png`](docs/play-store-icon.png) y tiene 512 × 512 píxeles.
+
 ## Datos y privacidad
 
 La aplicación no utiliza servidores propios, cuentas de usuario, publicidad ni
