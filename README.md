@@ -24,6 +24,11 @@ El icono de ficha para Google Play está disponible en
 El gráfico destacado de Google Play está disponible en
 [`docs/feature-graphic.png`](docs/feature-graphic.png) y tiene 1024 × 500 píxeles.
 
+Las capturas verticales para la ficha están disponibles en
+[`docs/screenshot-phone-01.png`](docs/screenshot-phone-01.png) y
+[`docs/screenshot-phone-02.png`](docs/screenshot-phone-02.png); ambas tienen
+1080 × 1920 píxeles.
+
 ## Datos y privacidad
 
 La aplicación no utiliza servidores propios, cuentas de usuario, publicidad ni
